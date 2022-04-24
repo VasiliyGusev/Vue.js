@@ -1,4 +1,4 @@
-<template>
+ <template>
   <div>
     <div class="grid">
       <button class="cell op" @click="calc(op)" v-for="op in operations" :key="op.id">{{ op }}</button>
