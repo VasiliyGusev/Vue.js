@@ -26,7 +26,7 @@
 import KeyBoardOpen from '@/components/KeyBoardOpen'
 import CulcButton from '@/components/CulcButton'
 export default {
-  name: 'HelloWorld',
+  name: 'CalcuLator',
   components: {KeyBoardOpen, CulcButton},
   props: {
     msg: String
