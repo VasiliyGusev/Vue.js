@@ -1,0 +1,9 @@
+*{
+    transition: 0.3s all;
+}
+
+.hello{
+    /*margin: 0 auto;*/
+    max-width: 500px;
+    /*margin-left: 40px;*/
+}
